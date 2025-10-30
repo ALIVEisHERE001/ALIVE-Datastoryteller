@@ -6,7 +6,7 @@ Tests for ALIVE-Datastoryteller
 import unittest
 from main import *
 
-class TestDatastoryteller(unittest.TestCase):
+class TestAiconsciousness(unittest.TestCase):
     def setUp(self):
         """Set up test fixtures"""
         pass
