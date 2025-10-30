@@ -23,7 +23,7 @@
 
     ## 🧠 Design Notes
 
-    This project was conceived with biologically-inspired cognition in mind and tailored specifically for "ALIVE-Datastoryteller" in the "data_storyteller" domain, implemented in Python.
+    This project was conceived with clean architecture patterns in mind and tailored specifically for "ALIVE-Datastoryteller" in the "ai_consciousness" domain, implemented in Python.
 
     ## 📐 Architecture Sketch
 
@@ -40,36 +40,36 @@
 
     ## 🔎 Fingerprint
 
-    Project Fingerprint: `0100f64f0934` • Generated: 2025-10-30T03:33:00.631248
+    Project Fingerprint: `10c94433b777` • Generated: 2025-10-30T04:30:07.270831
     
 
 ## Insights from Research
 
-- Video: Telling Stories with Data in 3 Steps (Quick Study)
-- Video: Storytelling with Data
-- Video: Simple Set Up
-- Video: Global Real Home Price Index
+- Video: Is AI🤖 Truly Conscious? - Elon Musk
+- Video: Architecture Site Analysis Diagrams in SECONDS with AI 😱 | Aino World #architecture
+- Video: Can AI Become Conscious? Bernardo Kastrup's Provocative Challenge
+- Video: Architecting Agent Memory: Principles, Patterns, and Best Practices — Richmond Alake, MongoDB
 - Repo idea: This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-- Repo idea: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI librari
-- Repo idea: A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
-- Repo idea: LLM101n: Let's build a Storyteller
-- Repo idea: :memo: An awesome Data Science repository to learn and apply for real world problems.
+- Repo idea: :books: List of awesome university courses for learning Computer Science!
+- Repo idea:  :books: Find your next book to read!
+- Repo idea: ChatGPT DAN, Jailbreaks prompt
+- Repo idea: SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
 
 
 ## Inspiration Sources
 
-- https://www.youtube.com/watch?v=r5_34YnCmMY
-- https://www.youtube.com/watch?v=r5_34YnCmMY
-- https://www.youtube.com/watch?v=r5_34YnCmMY
-- https://www.youtube.com/watch?v=r5_34YnCmMY
+- https://www.youtube.com/watch?v=gdlTspKdsjU
+- https://www.youtube.com/watch?v=gdlTspKdsjU
+- https://www.youtube.com/watch?v=gdlTspKdsjU
+- https://www.youtube.com/watch?v=gdlTspKdsjU
 
 
 ## Related Repositories
 
-- f/awesome-chatgpt-prompts ⭐ 135917 — https://github.com/f/awesome-chatgpt-prompts
-- bradtraversy/design-resources-for-developers ⭐ 63485 — https://github.com/bradtraversy/design-resources-for-developers
-- vsouza/awesome-ios ⭐ 50259 — https://github.com/vsouza/awesome-ios
-- karpathy/LLM101n ⭐ 35376 — https://github.com/karpathy/LLM101n
-- academic/awesome-datascience ⭐ 27639 — https://github.com/academic/awesome-datascience
+- f/awesome-chatgpt-prompts ⭐ 135919 — https://github.com/f/awesome-chatgpt-prompts
+- prakhar1989/awesome-courses ⭐ 64045 — https://github.com/prakhar1989/awesome-courses
+- hackerkid/Mind-Expanding-Books ⭐ 12934 — https://github.com/hackerkid/Mind-Expanding-Books
+- 0xk1h0/ChatGPT_DAN ⭐ 10104 — https://github.com/0xk1h0/ChatGPT_DAN
+- NeoVertex1/SuperPrompt ⭐ 6283 — https://github.com/NeoVertex1/SuperPrompt
 
     
